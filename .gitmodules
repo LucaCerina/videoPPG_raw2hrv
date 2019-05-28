@@ -1,0 +1,3 @@
+[submodule "matlab/HRV-detrend"]
+	path = matlab/HRV-detrend
+	url = https://github.com/LucaCerina/HRV-detrend.git
