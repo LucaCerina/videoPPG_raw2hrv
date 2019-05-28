@@ -3,6 +3,7 @@ Matlab &amp; Python implementation of the raw RGB to videoPPG signal as from Cer
 
 ## Initialize repo
 Clone the repo with recursive option to obtain also required submodules
+
 `git clone --recursive https://github.com/LucaCerina/videoPPG-ZCA.git`
 
 ## Process
@@ -13,3 +14,8 @@ The proposed code converts RGB traces obtained from a video (in csv format), and
 * ZCA demixing with filtering tuned on heart rate frequency
 * Selection of best ROI based on Signal-to-Noise ratio
 * Calculation of PPG peaks
+
+## Original contributors
+* Professor Luca Mainardi, Politecnico di Milano
+* Professor Riccardo Barbieri, Politecnico di Milano
+* Luca Iozzia PhD, TeiaCare, formerly Politecnico di Milano
