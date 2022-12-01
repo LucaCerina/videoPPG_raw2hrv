@@ -20,6 +20,11 @@ The proposed code converts RGB traces obtained from a video (in csv format), and
 * Professor Luca Mainardi, Politecnico di Milano
 * Professor Riccardo Barbieri, Politecnico di Milano
 * Luca Iozzia PhD, TeiaCare, formerly Politecnico di Milano
+* Valentina D.A. Corino PhD, Politecnico di Milano
+
+## Project repositories
+* Camera Interface for data collection: [cameraInterface](https://github.com/LucaCerina/videoPPG_cameraInterface)
+* Conversion of video to raw RGB signal: [video2raw](https://github.com/LucaCerina/videoPPG_video2raw)
 
 ## To cite this work
 If you use this project in a scientific paper, please cite:
